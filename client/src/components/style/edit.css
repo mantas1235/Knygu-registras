@@ -1,0 +1,53 @@
+.container_edit{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBxWAf07_EMHpkVDebHo_w1T8AjzXuVuEopQ&usqp=CAU);
+    background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+
+.container_edit input {
+    border-radius: 0.8rem;
+    width: 400px;
+}
+
+.editPavadinimas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.editAutorius{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.editVirselis{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.editISBN{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.editNuotrauka{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+}

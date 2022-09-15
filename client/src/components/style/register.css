@@ -1,0 +1,39 @@
+.registracija {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-image: url(https://s26162.pcdn.co/wp-content/uploads/2020/07/old_books_header.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+color: white;
+}
+
+.regForm button{
+background-color: aqua;}
+
+.regVardas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.regPavarde{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.regPastas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.regSlaptazodis{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

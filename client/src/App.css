@@ -1,0 +1,79 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css');
+.box {
+color: black;
+margin-top: 50px;
+}
+
+.box img {
+  width: 200px;
+ 
+}
+
+.box .header {
+  text-align: center;
+  
+
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  break-inside: avoid-column;
+}
+
+.container {
+
+  column-count: 3;
+
+}
+
+.autorius{
+
+  display: none;
+  
+}
+
+
+.button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.btn_delete {
+  display: inline-block;
+  background-color: #f44336;
+  color: black;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 8px;
+  opacity: 0.9;
+  border-radius: 1rem;
+  margin: 10px 0px;
+padding: 5px 20px;
+}
+
+.btn_delete:hover{
+background-color: blue;
+}
+
+
+.link_single{
+  display: inline-block;
+    color: #000000;
+    padding: 20px 55px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    opacity: 0.9;
+    border-radius: 1rem;
+    margin: 10px 0px;
+  padding: 5px 20px;
+}

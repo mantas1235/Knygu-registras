@@ -1,0 +1,42 @@
+.container_show_post {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Table{
+    width: 100%;
+    margin-top: 50px;
+    border: 2px solid black;
+}
+
+.Table tr {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.Table th {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.Table table {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.Table td {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}

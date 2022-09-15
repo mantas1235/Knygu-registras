@@ -1,0 +1,57 @@
+.newPost {
+    height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+background-image: url(https://idsb.tmgrup.com.tr/ly/uploads/images/2021/05/10/111440.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+margin-bottom: 70px;
+
+}
+.form_newPost{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.pavadinimas {
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.form_newPost input {
+    border-radius: 0.8rem;
+    width: 320px;
+
+}
+
+.autor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.virselio_autorius {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.isbn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.nuotrauka{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

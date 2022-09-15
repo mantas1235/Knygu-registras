@@ -1,0 +1,24 @@
+.container_header ul {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: white;
+    align-items: center;
+}
+
+.buttons {
+display: flex;
+}
+
+.logo {
+    width: 80px;
+    margin-left: 30px;
+}
+.naujasPostas{
+
+    list-style: none;
+    color: black;
+    text-decoration: none;
+
+    
+}
